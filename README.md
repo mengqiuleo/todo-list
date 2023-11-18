@@ -1,5 +1,11 @@
 通过 todo-list demo, 对比几种 react 组件间通信方式。
-
+- Props & Event
+- Context
+- useReducer 优化
+- just Redux
+- Redux & React-Redux
+- RTK
+- Mobx
 
 
 **同时使用 Redux Toolkit 和 React Redux，因为这是标准的 Redux 使用模式。**
